@@ -1,0 +1,32 @@
+{
+    "offerings": [
+        "Scavenger Hunt",
+        "Picnic",
+        "STEM Workshops",
+        "Arts and Crafts",
+        "Stargazing",
+        "Board Games"
+    ],
+    "values": [
+        "Innovation",
+        "Wellness",
+        "Creativity",
+        "Inclusivity",
+        "Safety",
+        "Empowerment"
+    ],
+    "policies": [
+        "Contingency",
+        "Disaster and Emergency",
+        "Health Care",
+        "Lost Camper ",
+        "Discipline",
+        "Procedures for Reporting Suspected Child Abuse or Neglect",
+        "Traffic Control ",
+        "Background Review of Staff and Volunteers"
+    ],
+    "location": "Tel Aviv",
+    "dates": "July and August",
+    "pricing": "$150-250 per camper for day camps and $350-450 per camper for overnight camps. Contact us for detailed pricing information and payment options.",
+    "age_range": "8 to 14 years old"
+}
